@@ -1,0 +1,442 @@
+,Unicode,Standard,,Iso latin 1,,CE,,Symbol,,PS name,Unicode name
+,hex,octal,hex,octal,hex,octal,hex,octal,hex,,
+65,41,101,41,101,41,101,41,,,A,latin capital letter a
+97,61,141,61,141,61,141,61,,,a,latin small letter a
+193,00C1,,,301,00C1,301,00C1,,,Aacute,latin capital letter a with acute
+225,0,,,341,E1,341,E1,,,aacute,latin small letter a with acute
+,U+0102,,,,,303,00C3,,,Abreve,latin capital letter a with breve
+,U+0103,,,,,343,E3,,,abreve,latin small letter a with breve
+194,00C2,,,302,00C2,302,00C2,,,Acircumflex,latin capital letter a with circumflex
+226,0,,,342,E2,342,E2,,,acircumflex,latin small letter a with circumflex
+180,00B4,302,00C2,264,00B4,264,00B4,,,acute,acute accent
+196,00C4,,,304,00C4,304,00C4,,,Adieresis,latin capital letter a with diaresis
+228,0,,,344,E4,344,E4,,,adieresis,latin small letter a with diaresis
+198,00C6,341,E1,306,00C6,,,,,AE,latin capital latter ae
+230,0,361,00F1,346,E6,,,,,ae,LATIN SMALL LETTER AE
+192,00C0,,,300,00C0,,,,,Agrave,latin capital letter a with grave
+224,0,,,340,E0,,,,,agrave,latin small letter a with grave
+,2135,,,,,,,300,C0,aleph,ALEF SYMBOL
+,391,,,,,,,101,41,Alpha,greek capital letter alpha
+,03B1,,,,,,,141,61,alpha,GREEK SMALL LETTER ALPHA
+38,26,46,26,46,26,46,26,46,26,ampersand,ampersand
+,2220,,,,,,,320,D0,angle,angle
+,2329,,,,,,,341,E1,angleleft,LEFT-POINTING ANGLE BRACKET
+,232A,,,,,,,361,F1,angleright,RIGHT-POINTING ANGLE BRACKET
+,U+0104,,,,,245,00A5,,,Aogonek,latin capital letter a with ogonek
+,U+0105,,,,,271,00B9,,,aogonek,latin small letter a with ogonek
+,2248,,,,,,,273,BB,approxequal,ALMOST EQUAL TO
+197,00C5,,,305,00C5,,,,,Aring,latin capital letter a with ring above
+229,0,,,345,E5,,,,,aring,latin small letter a with ring above
+,2194,,,,,,,253,AB,arrowboth,LEFT RIGHT ARROW
+,21D4,,,,,,,333,DB,arrowdblboth,LEFT RIGHT DOUBLE ARROW
+,21D3,,,,,,,337,DF,arrowdbldown,DOWNWARDS DOUBLE ARROW
+,21D0,,,,,,,334,DC,arrowdblleft,LEFTWARDS DOUBLE ARROW
+,21D2,,,,,,,336,DE,arrowdblright,RIGHTWARDS DOUBLE ARROW
+,21D1,,,,,,,335,DD,arrowdblup,UPWARDS DOUBLE ARROW
+,2193,,,,,,,257,AF,arrowdown,DOWNWARDS ARROW
+,F8E7,,,,,,,276,BE,arrowhorizex (CUS),HORIZONTAL ARROW EXTENDER
+,2190,,,,,,,254,AC,arrowleft,LEFTWARDS ARROW
+,2192,,,,,,,256,AE,arrowright,RIGHTWARDS ARROW
+,2191,,,,,,,255,AD,arrowup,UPWARDS ARROW
+,F8E6,,,,,,,275,BD,arrowvertex (CUS),VERTICAL ARROW EXTENDER
+94,005E,136,005E,136,005E,136,005E,,,asciicircum,circumflex accent
+126,007E,176,007E,176,007E,176,007E,,,asciitilde,tilde
+42,002A,52,002A,52,002A,52,002A,,,asterisk,asterisk
+,2217,,,,,,,052,2A,asteriskmath,ASTERISK OPERATOR
+64,40,100,40,100,40,100,40,,,at,commercial at
+195,00C3,,,303,00C3,,,,,Atilde,latin capital letter a with tilde
+227,0,,,343,E3,,,,,atilde,latin small letter a with tilde
+66,42,102,42,102,42,102,42,,,B,latin capital letter b
+98,62,142,62,142,62,142,62,,,b,latin small letter b
+92,005C,134,005C,134,005C,134,005C,,,backslash,reverse solidus
+124,007C,174,007C,174,007C,174,007C,174,7C,bar,vertical line
+,392,,,,,,,102,42,Beta,GREEK CAPITAL LETTER BETA
+,03B2,,,,,,,142,62,beta,GREEK SMALL LETTER BETA
+,F8F4,,,,,,,357,EF,braceex (CUS),CURLY BRACKET EXTENDER
+123,007B,173,007B,173,007B,173,007B,173,7B,braceleft,left curly bracket
+,007B,,,,,,,173,7B,braceleft,LEFT CURLY BRACKET
+,F8F3,,,,,,,356,EE,braceleftbt (CUS),LEFT CURLY BRACKET BOTTOM
+,F8F2,,,,,,,355,ED,braceleftmid (CUS),LEFT CURLY BRACKET MID
+,F8F1,,,,,,,354,EC,bracelefttp (CUS),LEFT CURLY BRACKET TOP
+125,007D,175,007D,175,007D,175,007D,175,7D,braceright,right curly bracket
+,F8FE,,,,,,,376,FE,bracerightbt (CUS),RIGHT CURLY BRACKET BOTTOM
+,F8FD,,,,,,,375,FD,bracerightmid (CUS),RIGHT CURLY BRACKET MID
+,F8FC,,,,,,,374,FC,bracerighttp (CUS),RIGHT CURLY BRACKET TOP
+91,005B,133,005B,133,005B,133,005B,133,5B,bracketleft,left square bracket
+,F8F0,,,,,,,353,EB,bracketleftbt (CUS),LEFT SQUARE BRACKET BOTTOM
+,F8EF,,,,,,,352,EA,bracketleftex (CUS),LEFT SQUARE BRACKET EXTENDER
+,F8EE,,,,,,,351,E9,bracketlefttp (CUS),LEFT SQUARE BRACKET TOP
+93,005D,135,005D,135,005D,135,005D,135,5D,bracketright,right square bracket
+,F8FB,,,,,,,373,FB,bracketrightbt (CUS),RIGHT SQUARE BRACKET BOTTOM
+,F8FA,,,,,,,372,FA,bracketrightex (CUS),RIGHT SQUARE BRACKET EXTENDER
+,F8F9,,,,,,,371,F9,bracketrighttp (CUS),RIGHT SQUARE BRACKET TOP
+150,U+02d8,306,00C6,226,96,242,00A2,,,breve,
+166,00A6,,,246,00A6,246,00A6,,,brokenbar,broken bar
+,U+2022,267,00B7,,,225,95,267,B7,bullet,bullet (was b7 middle dot)
+67,43,103,43,103,43,103,43,,,C,latin capital letter c
+99,63,143,63,143,63,143,63,,,c,latin small letter c
+,U+0106,,,,,306,00C6,,,Cacute,latin capital letter c with acute
+,U+0107,,,,,346,E6,,,cacute,latin small letter c with acute
+159,U+02c7,317,00CF,237,009F,241,00A1,,,caron,caron
+,21B5,,,,,,,277,BF,carriagereturn,DOWNWARDS ARROW WITH CORNER LEFTWARDS
+,U+010c,,,,,310,00C8,,,Ccaron,latin capital letter c with caron
+,U+010d,,,,,350,E8,,,ccaron,latin small letter c with caron
+199,00C7,,,307,00C7,307,00C7,,,Ccedilla,latin capital letter c with cedilla
+231,0,,,347,E7,347,E7,,,ccedilla,latin small letter c with cedilla
+,00B8,313,CB,,,,,,,cedilla,CEDILLA
+162,00A2,242,00A2,242,00A2,,,,,cent,cent sign
+,03A7,,,,,,,103,43,Chi,GREEK CAPITAL LETTER CHI
+,03C7,,,,,,,143,63,chi,GREEK SMALL LETTER CHI
+,2297,,,,,,,304,C4,circlemultiply,CIRCLED TIMES
+,2295,,,,,,,305,C5,circleplus,CIRCLED PLUS
+,02C6,303,C3,223,93,,,,,circumflex,MODIFIER LETTER CIRCUMFLEX ACCENT
+,2663,,,,,,,247,A7,club,BLACK CLUB SUIT
+58,003A,72,003A,72,003A,72,003A,72,3A,colon,colon
+,003A,,,,,,,072,3A,colon,COLON
+44,002C,54,002C,54,002C,54,002C,54,2C,comma,comma
+,2245,,,,,,,100,40,congruent,APPROXIMATELY EQUAL TO
+169,00A9,,,251,00A9,251,00A9,,,copyright,copyright sign
+,F8E9,,,,,,,343,E3,copyrightsans (CUS),COPYRIGHT SIGN SANS SERIF
+,F6D9,,,,,,,323,D3,copyrightserif (CUS),COPYRIGHT SIGN SERIF
+164,00A4,250,00A8,244,00A4,244,00A4,,,currency,currency sign
+68,44,104,44,104,44,104,44,,,D,latin capital letter d
+100,64,144,64,144,64,144,64,,,d,latin small letter d
+,U+2020,262,00B2,,,206,86,,,dagger,dagger
+,U+2021,263,00B3,,,207,87,,,daggerdbl,double dagger
+,U+010e,,,,,317,00CF,,,Dcaron,latin capital letter d with caron
+,U+010f,,,,,357,00EF,,,dcaron,latin small letter d with caron
+,U+0111,,,,,320,00D0,,,Dcroat,latin capital letter d with atroke
+,U+0112,,,,,360,00F0,,,dcroat,latin small letter d with stroke
+176,00B0,,,260,00B0,260,00B0,260,B0,degree,degree sign
+,394,,,,,,,104,44,Delta,GREEK CAPITAL LETTER DELTA
+,03B4,,,,,,,144,64,delta,GREEK SMALL LETTER DELTA
+,2206,,,,,,,104,44,Delta,INCREMENT
+,2666,,,,,,,250,A8,diamond,BLACK DIAMOND SUIT
+168,00A8,310,00C8,250,00A8,250,00A8,,,dieresis,diaresis
+247,00F7,,,367,00F7,367,00F7,270,B8,divide,division sign
+36,24,44,24,44,24,44,24,,,dollar,dollar sign
+151,U+02d9,307,00C7,227,97,377,00FF,,,dotaccent,dot above (combining dot above is U+0307)
+144,U+0131,365,00F5,220,90,,,,,dotlessi,latin small letter dotless I
+,22C5,,,,,,,327,D7,dotmath,DOT OPERATOR
+69,45,105,45,105,45,105,45,,,E,latin capital letter e
+101,65,145,65,145,65,145,65,,,e,latin small letter e
+,65,145,65,,,,,,,e,LATIN SMALL LETTER E
+201,00C9,,,311,00C9,311,00C9,,,Eacute,latin capital letter e with acute
+233,0,,,351,E9,351,E9,,,eacute,latin small letter e with acute
+,U+011e,,,,,314,00CC,,,Ecaron,latin capital letter e with caron
+,U+011f,,,,,354,00EC,,,ecaron,latin small letter e with caron
+202,00CA,,,312,00CA,,,,,Ecircumflex,latin capital letter e with circumflex
+234,00EA,,,352,00EA,,,,,ecircumflex,latin small letter e with circumflex
+203,00CB,,,313,00CB,313,00CB,,,Ediaresis,latin capital letter e with diaresis
+235,00EB,,,353,00EB,353,00EB,,,edieresis,latin small letter e with diaresis
+200,00C8,,,310,00C8,,,,,Egrave,latin capital letter e with grave
+232,0,,,350,E8,,,,,egrave,latin small letter e with grave
+56,38,70,38,70,38,70,38,070,38,eight,digit eight
+,2208,,,,,,,316,CE,element,ELEMENT OF
+,U+2026,274,00BC,,,205,85,274,BC,ellipsis,horizontal ellipsis
+,U+2014,320,00D0,,,227,97,,,emdash,em dash
+,2205,,,,,,,306,C6,emptyset,EMPTY SET
+,U+2013,261,00B1,,,226,96,,,endash,en dash
+,U+0118,,,,,312,00CA,,,Eogonek,latin capital letter e with ogonek
+,U+0119,,,,,352,00EA,,,eogonek,latin small letter e with ogonek
+,395,,,,,,,105,45,Epsilon,GREEK CAPITAL LETTER EPSILON
+,03B5,,,,,,,145,65,epsilon,GREEK SMALL LETTER EPSILON
+61,003D,75,003D,75,003D,75,003D,75,3D,equal,equals sign
+,2261,,,,,,,272,BA,equivalence,IDENTICAL TO
+,397,,,,,,,110,48,Eta,GREEK CAPITAL LETTER ETA
+,03B7,,,,,,,150,68,eta,GREEK SMALL LETTER ETA
+208,00D0,,,320,00D0,,,,,Eth,latin capital letter eth
+240,00F0,,,360,00F0,,,,,eth,latin small letter eth
+,20AC,,,,,,,240,A0,Euro,EURO SIGN
+33,21,41,21,41,21,41,21,41,21,exclam,exclamation mark
+161,00A1,241,00A1,241,00A1,,,,,exclamdown,inverted exclamation mark
+,2203,,,,,,,044,24,existential,THERE EXISTS
+70,46,106,46,106,46,106,46,,,F,latin capital letter f
+102,66,146,66,146,66,146,66,,,f,latin small letter f
+,FB01,256,AE,,,,,,,fi,LATIN SMALL LIGATURE FI
+53,35,65,35,65,35,65,35,65,35,five,digit five
+,U+fb02,257,00AF,,,,,,,fl,latin small ligature fl
+,U+0192,246,00A6,,,,,246,A6,florin,latin small letter f with hook
+52,34,64,34,64,34,64,34,64,34,four,digit four
+,2215,244,A4,,,,,244,A4,fraction,DIVISION SLASH
+,2044,244,A4,,,,,244,A4,fraction,FRACTION SLASH
+71,47,107,47,107,47,107,47,,,G,latin capital letter g
+103,67,147,67,147,67,147,67,,,g,latin small letter g
+,393,,,,,,,107,47,Gamma,GREEK CAPITAL LETTER GAMMA
+,03B3,,,,,,,147,67,gamma,GREEK SMALL LETTER GAMMA
+223,00DF,373,00FB,337,00DF,337,00DF,,,germandbls,latin small letter sharp s
+,2207,,,,,,,321,D1,gradient,NABLA
+96,60,301,00C1,221,91,140,60,,,grave,grave accent
+62,003E,76,003E,76,003E,76,003E,76,3E,greater,Greater-than sign
+,2265,,,,,,,263,B3,greaterequal,GREATER-THAN OR EQUAL TO
+171,00AB,253,00AB,253,00AB,253,00AB,,,guillemotleft,left pointing double angle quotation mark
+187,00BB,273,00BB,273,00BB,273,00BB,,,guillemotright,right pointing double angle quotation mark
+,U+2039,254,00AC,,,213,008B,,,guilsinglleft,single left-pointing angle quotation mark
+,U+203a,255,00AD,,,233,009B,,,guilsinglright,single right-pointing angle quotation mark
+72,48,110,48,110,48,110,48,,,H,latin capital letter h
+104,68,150,68,150,68,150,68,,,h,latin small letter h
+,2665,,,,,,,251,A9,heart,BLACK HEART SUIT
+157,U+02dd,315,00CD,235,009D,275,00BD,,,hungarumlaut,double acute accent
+,002D,055,2D,,,,,,,hyphen,HYPHEN-MINUS
+173,00AD,55,002D,255,00AD,255,00AD,,,hyphen,soft hyphen
+73,49,111,49,111,49,111,49,,,I,latin capital letter I
+105,69,151,69,151,69,151,69,,,I,latin small letter I
+205,00CD,,,315,00CD,315,00CD,,,Iacute,latin capital letter I with acute
+237,00ED,,,355,00ED,355,00ED,,,iacute,latin small letter I with acute
+206,00CE,,,316,00CE,316,00CE,,,Icircumflex,atin capital letter I with circumflex
+238,00EE,,,356,00EE,356,00EE,,,icircumflex,latin small letter I with circumflex
+207,00CF,,,317,00CF,,,,,Idieresis,latin capital letter I with diaresis
+239,00EF,,,357,00EF,,,,,idieresis,latin small letter I with diaresis
+,2111,,,,,,,301,C1,Ifraktur,BLACK-LETTER CAPITAL I
+204,00CC,,,314,00CC,,,,,Igrave,latin capital letter I with grave
+236,00EC,,,354,00EC,,,,,igrave,latin small letter I with grave
+,221E,,,,,,,245,A5,infinity,INFINITY
+,222B,,,,,,,362,F2,integral,INTEGRAL
+,2321,,,,,,,365,F5,integralbt,BOTTOM HALF INTEGRAL
+,F8F5,,,,,,,364,F4,integralex (CUS),INTEGRAL EXTENDER
+,2320,,,,,,,363,F3,integraltp,TOP HALF INTEGRAL
+,2229,,,,,,,307,C7,intersection,INTERSECTION
+,399,,,,,,,111,49,Iota,GREEK CAPITAL LETTER IOTA
+,03B9,,,,,,,151,69,iota,GREEK SMALL LETTER IOTA
+74,004A,112,004A,112,004A,112,004A,,,J,latin capital letter j
+106,006A,152,006A,152,006A,152,006A,,,j,latin small letter j
+75,004B,113,004B,113,004B,113,004B,,,K,latin capital letter k
+107,006B,153,006B,153,006B,153,006B,,,k,latin small letter k
+,039A,,,,,,,113,4B,Kappa,GREEK CAPITAL LETTER KAPPA
+,03BA,,,,,,,153,6B,kappa,GREEK SMALL LETTER KAPPA
+76,004C,114,004C,114,004C,114,004C,,,L,latin capital letter l
+108,006C,154,006C,154,006C,154,006C,,,l,latin small letter l
+,U+013a,,,,,345,E5,,,lacute,latim small  letter l with acute
+,U+0139,,,,,305,00C5,,,Lacute,latin capital letter l with acute
+,039B,,,,,,,114,4C,Lambda,GREEK CAPITAL LETTER LAMDA
+,03BB,,,,,,,154,6C,lambda,GREEK SMALL LETTER LAMDA
+,U+013d,,,,,274,00BC,,,Lcaron,latin capital letter l with caron
+,U+013e,,,,,276,00BE,,,lcaron,latin small letter l with caron
+60,003C,74,003C,74,003C,74,003C,74,3C,less,Less-than sign
+,2264,,,,,,,243,A3,lessequal,LESS-THAN OR EQUAL TO
+,2227,,,,,,,331,D9,logicaland,LOGICAL AND
+172,00AC,,,254,00AC,254,00AC,330,D8,logicalnot,not sign
+,2228,,,,,,,332,DA,logicalor,LOGICAL OR
+,25CA,,,,,,,340,E0,lozenge,LOZENGE
+,U+0141,350,E8,,,243,00A3,,,Lslash,latin capital letter l with stroke
+,U+0142,370,00F8,,,263,00B3,,,lslash,
+77,004D,115,004D,115,004D,115,004D,,,M,latin capital letter m
+109,006D,155,006D,155,006D,155,006D,,,m,latin small letter m
+175,00AF,305,00C5,257,00AF,,,,,macron,macron
+,02C9,305,C5,,,,,,,macron,MODIFIER LETTER MACRON
+45,002D,,,55,002D,,,55,2D,minus,Hyphen-minus
+,2212,,,,,,,055,2D,minus,MINUS SIGN
+,2032,,,,,,,242,A2,minute,PRIME
+,039C,,,,,,,115,4D,Mu,GREEK CAPITAL LETTER MU
+,03BC,,,,,,,155,6D,mu,GREEK SMALL LETTER MU
+181,00B5,,,265,00B5,265,00B5,,,mu,micro sign
+,00B5,,,,,,,155,6D,mu,MICRO SIGN
+215,00D7,,,327,00D7,327,00D7,264,B4,multiply,multiplication sign
+,00D7,,,,,,,264,B4,multiply,MULTIPLICATION SIGN
+78,004E,116,004E,116,004E,116,004E,,,N,latin capital letter n
+,004E,116,4E,,,,,,,N,LATIN CAPITAL LETTER N
+110,006E,156,006E,156,006E,156,006E,,,n,latin small letter n
+,006E,156,6E,,,,,,,n,LATIN SMALL LETTER N
+,U+0143,,,,,321,00D1,,,Nacute,latin capital letter n with acute
+,U+0144,,,,,361,00F1,,,nacute,latin small letter n with acute
+,U+0147,,,,,322,00D2,,,Ncaron,latin capital letter n with caron
+,U+0148,,,,,362,00F2,,,ncaron,latin small letter n with caron
+57,39,71,39,71,39,71,39,71,39,nine,digit nine
+,2209,,,,,,,317,CF,notelement,NOT AN ELEMENT OF
+,2260,,,,,,,271,B9,notequal,NOT EQUAL TO
+,2284,,,,,,,313,CB,notsubset,NOT A SUBSET OF
+209,00D1,,,321,00D1,,,,,Ntilde,latin capital letter n with tilde
+241,00F1,,,361,00F1,,,,,ntilde,latin small letter n with tilde
+,039D,,,,,,,116,4E,Nu,GREEK CAPITAL LETTER NU
+,03BD,,,,,,,156,6E,nu,GREEK SMALL LETTER NU
+35,23,43,23,43,23,43,23,43,23,numbersign,number sign
+79,004F,117,004F,117,004F,117,004F,,,O,latin capital letter o
+111,006F,157,006F,157,006F,157,006F,,,o,latin small letter o
+211,00D3,,,323,00D3,323,00D3,,,Oacute,latin capital letter o with acute
+243,00F3,,,363,00F3,363,00F3,,,oacute,latin small  letter o with acute
+212,00D4,,,324,00D4,324,00D4,,,Ocircumflex,latin capital letter o with circumflex
+244,00F4,,,364,00F4,364,00F4,,,ocircumflex,latin small letter o with circumflex
+214,00D6,,,326,00D6,326,00D6,,,Odieresis,latin capital letter o with diaresis
+246,00F6,,,366,00F6,366,00F6,,,odieresis,latin small letter o with diaresis
+,U+0152,352,00EA,,,,,,,OE,latin capital ligature oe
+,U+0153,372,00FA,,,,,,,oe,latin small ligature oe
+158,U+02db,316,00CE,236,009E,262,00B2,,,oganek,ogonek
+210,00D2,,,322,00D2,,,,,Ograve,latin capitalletter o with grave
+242,00F2,,,362,00F2,,,,,ograve,latin small letter o with grave
+,U+0150,,,,,325,00D5,,,Ohungarumlaut,latin capital letter o with double acute
+,U+0151,,,,,365,00F5,,,ohungarumlaut,latin small letter u with double acute
+,03A9,,,,,,,127,57,Omega,GREEK CAPITAL LETTER OMEGA
+,03C9,,,,,,,167,77,omega,GREEK SMALL LETTER OMEGA
+,2126,,,,,,,127,57,Omega,OHM SIGN
+,03D6,,,,,,,166,76,omega1,GREEK PI SYMBOL
+,039F,,,,,,,117,4F,Omicron,GREEK CAPITAL LETTER OMICRON
+,03BF,,,,,,,157,6F,omicron,GREEK SMALL LETTER OMICRON
+49,31,61,31,61,31,61,31,61,31,one,digit one
+189,00BD,,,275,00BD,,,,,onehalf,vulgar fraction one half
+188,00BC,,,274,00BC,,,,,onequarter,vulgar fraction one quarter
+185,00B9,,,271,00B9,,,,,onesuperior,superscript one
+170,00AA,343,E3,252,00AA,,,,,ordfeminine,feminie ordinal indicator
+186,00BA,353,00EB,272,00BA,,,,,ordmasculine,masculine ordinal indicator
+216,00D8,351,E9,330,00D8,,,,,Oslash,latin capital letter o with stroke
+248,00F8,371,00F9,370,00F8,,,,,oslash,latin small letter o with stroke
+213,00D5,,,325,00D5,,,,,Otilde,latin capital letter o with tilde
+245,00F5,,,365,00F5,,,,,otilde,latin small letter o with tilde
+80,50,120,50,120,50,120,50,,,P,latin capital letter p
+112,70,160,70,160,70,160,70,,,p,latin small letter p
+182,00B6,266,00B6,266,00B6,266,00B6,,,paragraph,pilcrow sign
+,00B6,266,B6,,,,,,,paragraph,PILCROW SIGN
+40,28,50,28,50,28,50,28,50,28,parenleft,left parenthesis
+,28,050,28,,,,,,,parenleft,LEFT PARENTHESIS
+,28,,,,,,,050,28,parenleft,LEFT PARENTHESIS
+,F8ED,,,,,,,350,E8,parenleftbt (CUS),LEFT PAREN BOTTOM
+,F8EC,,,,,,,347,E7,parenleftex (CUS),LEFT PAREN EXTENDER
+,F8EB,,,,,,,346,E6,parenlefttp (CUS),LEFT PAREN TOP
+41,29,51,29,51,29,51,29,51,29,parenright,right parenthesis
+,F8F8,,,,,,,370,F8,parenrightbt (CUS),RIGHT PAREN BOTTOM
+,F8F7,,,,,,,367,F7,parenrightex (CUS),RIGHT PAREN EXTENDER
+,F8F6,,,,,,,366,F6,parenrighttp (CUS),RIGHT PAREN TOP
+,2202,,,,,,,266,B6,partialdiff,PARTIAL DIFFERENTIAL
+37,25,45,25,45,25,45,25,45,25,percent,percent sign
+46,002E,56,002E,56,002E,56,002E,56,2E,period,full stop
+,2219,264,B4,,,,,,,periodcentered,BULLET OPERATOR
+183,00B7,264,00B4,267,00B7,267,00B7,,,periodcentered,middle dot
+,22A5,,,,,,,136,5E,perpendicular,UP TACK
+,U+2030,275,00BD,,,211,89,,,perthousand,per mille sign
+,03A6,,,,,,,106,46,Phi,GREEK CAPITAL LETTER PHI
+,03C6,,,,,,,146,66,phi,GREEK SMALL LETTER PHI
+,03D5,,,,,,,152,6A,phi1,GREEK PHI SYMBOL
+,03A0,,,,,,,120,50,Pi,GREEK CAPITAL LETTER PI
+,03C0,,,,,,,160,70,pi,GREEK SMALL LETTER PI
+43,002B,53,002B,53,002B,53,002B,53,2B,plus,plus sign
+,002B,053,2B,,,,,,,plus,PLUS SIGN
+,002B,,,,,,,053,2B,plus,PLUS SIGN
+177,00B1,,,261,00B1,261,00B1,261,B1,plusminus,Plus-minus sign
+,220F,,,,,,,325,D5,product,N-ARY PRODUCT
+,2282,,,,,,,314,CC,propersubset,SUBSET OF
+,2283,,,,,,,311,C9,propersuperset,SUPERSET OF
+,221D,,,,,,,265,B5,proportional,PROPORTIONAL TO
+,03A8,,,,,,,131,59,Psi,GREEK CAPITAL LETTER PSI
+,03C8,,,,,,,171,79,psi,GREEK SMALL LETTER PSI
+81,51,121,51,121,51,121,51,,,Q,latin capital letter q
+113,71,161,71,161,71,161,71,,,q,latin small letter q
+63,003F,77,003F,77,003F,77,003F,77,3F,question,question mark
+191,00BF,277,00BF,277,00BF,,,,,questiondown,inverted question mark
+34,22,42,22,42,22,42,22,,,quotedbl,quotation mark
+,U+201e,271,00B9,,,204,84,,,quotedblbase,double low-9 quotation mark
+,u+201c,252,00AA,,,223,93,,,quotedblleft,left double quotation mark
+,U+201d,272,00BA,,,224,94,,,quotedblright,right double quotation mark
+,U+2018,140,60,0,0,221,91,,,quoteleft,left single quotation mark
+,0x2019,47,27,,,222,92,,,quoteright,right single quotation mark
+,U+201a,270,00B8,,,202,82,,,quotesinglbase,single low-9 quation mark
+47,27,251,00A9,,,47,27,,,quotesingle,quotation mark
+82,52,122,52,122,52,122,52,,,R,latin capital letter r
+114,72,162,72,162,72,162,72,,,r,latin small letter r
+,U+0154,,,,,300,00C0,,,Racute,latin capital letter r with acute
+,U+0155,,,,,340,E0,,,racute,latin small letter r with acute
+,221A,,,,,,,326,D6,radical,SQUARE ROOT
+,F8E5,,,,,,,140,60,radicalex (CUS),RADICAL EXTENDER
+,U+0158,,,,,330,00D8,,,Rcaron,latin capital letter r with caron
+,U+0159,,,,,370,00F8,,,rcaron,latin small letter r with caron
+,2286,,,,,,,315,CD,reflexsubset,SUBSET OF OR EQUAL TO
+,2287,,,,,,,312,CA,reflexsuperset,SUPERSET OF OR EQUAL TO
+174,00AE,,,256,00AE,256,00AE,,,registered,registered sign
+,F8E8,,,,,,,342,E2,registersans (CUS),REGISTERED SIGN SANS SERIF
+,F6DA,,,,,,,322,D2,registerserif (CUS),REGISTERED SIGN SERIF
+,211C,,,,,,,302,C2,Rfraktur,BLACK-LETTER CAPITAL R
+,03A1,,,,,,,122,52,Rho,GREEK CAPITAL LETTER RHO
+,03C1,,,,,,,162,72,rho,GREEK SMALL LETTER RHO
+154,U+02da,312,00CA,232,009A,,,,,ring,ring above (combining ring above is U+030a)
+83,53,123,53,123,53,123,53,,,S,latin capital letter s
+115,73,163,73,163,73,163,73,,,s,latin small letter s
+,U+015a,,,,,214,008C,,,Sacute,latin capital letter s with acute
+,U+015b,,,,,234,009C,,,sacute,latin small letter s with acute
+,U+0160,,,,,212,008A,,,Scaron,latin capital letter s with caron
+,U+0161,,,,,232,009A,,,scaron,latin small letter s with caron
+,U+015e,,,,,252,00AA,,,Scommaaccent,Latin capital letter s with cedilla
+,U+015f,,,,,272,00BA,,,scommaaccent,latin small letter s with cedilla
+,2033,,,,,,,262,B2,second,DOUBLE PRIME
+167,00A7,247,00A7,247,00A7,247,00A7,,,section,section sign
+59,003B,73,003B,73,003B,73,003B,73,3B,semicolon,semicolon
+55,37,67,37,67,37,67,37,67,37,seven,digit seven
+,03A3,,,,,,,123,53,Sigma,GREEK CAPITAL LETTER SIGMA
+,03C3,,,,,,,163,73,sigma,GREEK SMALL LETTER SIGMA
+,03C2,,,,,,,126,56,sigma1,GREEK SMALL LETTER FINAL SIGMA
+,223C,,,,,,,176,7E,similar,TILDE OPERATOR
+,36,066,36,,,,,66,36,six,DIGIT SIX
+47,002F,57,002F,57,002F,57,002F,057,2F,slash,solidus
+,00A0,040,20,,,,,40,20,space,NO-BREAK SPACE
+32,20,40,20,40,20,40,20,40,20,space,space
+,2660,,,,,,,252,AA,spade,BLACK SPADE SUIT
+163,00A3,243,00A3,243,00A3,,,,,sterling,pound sign
+,220B,,,,,,,047,27,suchthat,CONTAINS AS MEMBER
+,2211,,,,,,,345,E5,summation,N-ARY SUMMATION
+84,54,124,54,124,54,124,54,,,T,latin capital letter t
+116,74,164,74,164,74,164,74,,,t,latin small letter t
+,03A4,,,,,,,124,54,Tau,GREEK CAPITAL LETTER TAU
+,03C4,,,,,,,164,74,tau,GREEK SMALL LETTER TAU
+,U+0164,,,,,215,008D,,,Tcaron,latin capital  letter t with caron
+,U+0165,,,,,235,009D,,,tcaron,latin small letter t with caron
+,U+0162,,,,,336,00DE,,,Tcommaaccent,latin capital letter c with cedilla
+,U+0163,,,,,376,00FE,,,tcommaaccent,latin small letter t with cedilla
+,2234,,,,,,,134,5C,therefore,THEREFORE
+,398,,,,,,,121,51,Theta,GREEK CAPITAL LETTER THETA
+,03B8,,,,,,,161,71,theta,GREEK SMALL LETTER THETA
+,03D1,,,,,,,112,4A,theta1,GREEK THETA SYMBOL
+222,00DE,,,336,00DE,,,,,Thorn,latin capital letter thorn
+254,00FE,,,376,00FE,,,,,thorn,latin small letter thorn
+51,33,63,33,63,33,63,33,63,33,three,digit three
+190,00BE,,,276,00BE,,,,,threequarters,vulgar fraction three quarter
+179,00B3,,,263,00B3,,,,,threesuperior,superscript three
+148,U+007e,304,00C4,224,94,,,,,tilde,tilde (tilde operator is U+223c)
+,U+2122,,,,,231,99,,,trademark,trade mark sign
+,F8EA,,,,,,,344,E4,trademarksans (CUS),TRADE MARK SIGN SANS SERIF
+,F6DB,,,,,,,324,D4,trademarkserif (CUS),TRADE MARK SIGN SERIF
+50,32,62,32,62,32,62,32,62,32,two,digit two
+178,00B2,,,262,00B2,,,,,twosuperior,superscript two
+85,55,125,55,125,55,125,55,,,U,latin capital letter u
+117,75,165,75,165,75,165,75,,,u,latin small letter u
+218,00DA,,,332,00DA,332,00DA,,,Uacute,latin capital letter u with acute
+250,00FA,,,372,00FA,372,00FA,,,uacute,latin small letter u with acute
+219,00DB,,,333,00DB,,,,,Ucircumflex,latin capital letter u with circumflex
+251,00FB,,,373,00FB,,,,,ucircumflex,latin small letter u with circumflex
+220,00DC,,,334,00DC,334,00DC,,,Udiaresis,latin capital letter u with diaresis
+252,00FC,,,374,00FC,374,00FC,,,udieresis,latin small letter u with diaresis
+217,00D9,,,331,00D9,,,,,Ugrave,latin capital letter u with grave
+249,00F9,,,371,00F9,,,,,ugrave,latin small letter u with grave
+,U+0170,,,,,333,00DB,,,Uhungarumlaut,latin capital letter u with double acute
+,U+171,,,,,373,00FB,,,uhungarumlaut,latin small letter u with double acute
+95,005F,137,005F,137,005F,137,005F,137,5F,underscore,low line
+,005F,137,5F,,,,,137,5F,underscore,LOW LINE
+,222A,,,,,,,310,C8,union,UNION
+,2200,,,,,,,042,22,universal,FOR ALL
+,03A5,,,,,,,125,55,Upsilon,GREEK CAPITAL LETTER UPSILON
+,03C5,,,,,,,165,75,upsilon,GREEK SMALL LETTER UPSILON
+,03D2,,,,,,,241,A1,Upsilon1,GREEK UPSILON WITH HOOK SYMBOL
+,U+016e,,,,,331,00D9,,,Uring,latin capital letter u with ring above
+,U+016f,,,,,371,00F9,,,uring,latin small letter u with ring above
+86,56,126,56,126,56,126,56,,,V,latin capital letter v
+118,76,166,76,166,76,166,76,,,v,latin small letter v
+87,57,127,57,127,57,127,57,,,W,latin capital letter w
+119,77,167,77,167,77,167,77,,,w,latin small letter w
+,2118,,,,,,,303,C3,weierstrass,SCRIPT CAPITAL P
+88,58,130,58,130,58,130,58,,,X,latin capital letter x
+120,78,170,78,170,78,170,78,,,x,latin small letter x
+,039E,,,,,,,130,58,Xi,GREEK CAPITAL LETTER XI
+,03BE,,,,,,,170,78,xi,GREEK SMALL LETTER XI
+89,59,131,59,131,59,131,59,,,Y,latin capital letter y
+121,79,171,79,171,79,171,79,,,y,latin small letter y
+221,00DD,,,335,00DD,335,00DD,,,Yacute,latin capital letter y with acute
+253,00FD,,,375,00FD,375,00FD,,,yacute,latin small letter y with acute
+255,00FF,,,377,00FF,,,,,ydieresis,latin small letter y with diaresis
+165,00A5,245,00A5,245,00A5,,,,,yen,yen sign
+90,005A,132,005A,132,005A,132,005A,,,Z,latin capital letter z
+122,007A,172,007A,172,007A,172,007A,,,z,latin small letter z
+,U+0179,,,,,217,008F,,,Zacute,latin capital letter z with acute
+,U+017a,,,,,237,009F,,,zacute,latin small letter z with acute
+,U+017d,,,,,216,008E,,,Zcaron,latin capital letter z with caron
+,U+017e,,,,,236,009E,,,zcaron,latin small letter z with caron
+,U+017b,,,,,257,00AF,,,Zdotaccent,latin capital letter z with dot above
+,U+017c,,,,,277,00BF,,,zdotaccent,latin small letter z with dot above
+48,30,60,30,60,30,60,30,60,30,zero,digit zero
+,396,,,,,,,132,5A,Zeta,GREEK CAPITAL LETTER ZETA
+,03B6,,,,,,,172,7A,zeta,GREEK SMALL LETTER ZETA

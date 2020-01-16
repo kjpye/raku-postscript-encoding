@@ -1,0 +1,18 @@
+{
+  "authors" : [
+    "Kevin Pye"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "PostScript::Encoding",
+  "perl" : "6.c",
+  "provides" : {
+  },
+  "resources" : [ ],
+  "source-url" : "https://github.com/kjpye/raku-postscript-encoding",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
